@@ -32,8 +32,9 @@ h4 {
 }
 p {
   margin-bottom: 10px;
+  padding: 20px;
 }
-a { 
+a {
   display: inline-block;
   padding:10px 15px;
   background-color: orange;
@@ -43,6 +44,6 @@ a {
   transition: 200ms;
 }
 a:hover{
-    background-color: rgb(251, 192, 81);
-    color: white;
+  background-color: rgb(251, 192, 81);
+  color: white;
 }
